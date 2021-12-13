@@ -10,4 +10,4 @@ print ('i am ' + str(personage))
 # # print(type(massa)) #определение тайп оф variables
 # # IsEmpty = False #boolean bool
 # # print (IsEmpty)
-
+print ("sexy lord's asses")
